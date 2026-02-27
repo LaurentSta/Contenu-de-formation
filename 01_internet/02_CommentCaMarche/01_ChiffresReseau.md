@@ -16,3 +16,7 @@
 - Carte muette : placer 2Africa + une liaison transatlantique + une transpacifique pour visualiser les routes.
 - Mini-quiz « ordre de grandeur » : faire deviner le km total de câbles ou le trafic DE-CIX, puis révéler.
 - Message clé : Internet est mondial, transporté surtout par des câbles sous-marins, et le trafic augmente d’environ 15–20 % par an.
+
+
+
+

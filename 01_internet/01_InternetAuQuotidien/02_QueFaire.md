@@ -55,3 +55,54 @@ Public : apprenants en inclusion numérique ; langage simple, phrases courtes.
 - Parcours guidé : remplir ensemble une petite checklist « S’informer / Communiquer / Acheter / Jouer » et associer un pictogramme.
 - Quiz sécurité : 5 situations, lever un carton vert/rouge ou bouton de sondage en visio (phishing, mot de passe, wifi public).
 - Parcours « service public » : simuler une démarche simple (prendre un rendez-vous, déposer un justificatif) avec des captures ou un site de démo.
+
+
+
+# 02_QueFaire.md (GOOGLE)
+
+## 1. Objectifs
+- Identifier au moins trois usages d'Internet directement applicables au quotidien de l'apprenant.
+- Associer un besoin courant (santé, achats, communication) à un service en ligne ou un pictogramme.
+- Acquérir les premiers réflexes de sécurité visuelle (repérage du cadenas HTTPS) avant toute démarche.
+
+## 2. Contexte
+- Public : Apprenants en inclusion numérique. Le langage doit rester simple, avec des phrases courtes.
+- Matériel : Postes informatiques ou tablettes, vidéoprojecteur, jeu de cartes « pictogrammes » (à concevoir sous Word ou Publisher et à imprimer).
+- Stratégie d'animation : Éviter le jargon. Les termes techniques sont traduits (ex. : remplacer « phishing » par « courriel frauduleux » ou « hameçonnage », et « MOOC » par « cours en ligne »).
+
+## 3. Méthode
+- Pédagogie active et inductive : partir des besoins immédiats des apprenants lors d'un brainstorming.
+- Apprentissage visuel par association d'idées (pictogrammes liés à des actions concrètes).
+- Contextualisation stricte sur des cas d'usage réels et utiles (démarches administratives, santé, lien social).
+
+## 4. Déroulé (Durée estimée : 1h30)
+
+| Phase | Durée | Action du formateur | Action de l'apprenant |
+| :--- | :--- | :--- | :--- |
+| Inclusion | 15 min | Animer un brainstorming : « Que voulez-vous faire aujourd'hui ? » (payer, appeler, apprendre). Classer les réponses au tableau par catégories. | Exprimer un besoin personnel ou une difficulté rencontrée récemment. |
+| Découverte | 20 min | Présenter les grandes familles d'usages (S'informer, Communiquer, Démarches) avec des exemples très concrets (météo, e-mail, impôts). | Identifier la catégorie correspondant à son besoin initial. |
+| Pratique (Jeu) | 30 min | Distribuer des cartes (actions vs pictogrammes). Demander de relier l'image au texte court (ex. : Enveloppe = Garder le contact). | Manipuler les cartes et associer chaque action à son image de référence. |
+| Sensibilisation | 15 min | Projeter un site de service public et montrer physiquement où se trouve le cadenas de sécurité avant toute saisie de données. | Repérer le cadenas sur son propre écran. |
+| Synthèse | 10 min | Distribuer une fiche mémo (format PDF imprimé) reprenant les pictogrammes et les 3 règles de sécurité. | Ranger le document et poser les éventuelles questions finales. |
+
+## 5. Évaluation
+- Formative : Taux de réussite lors de l'exercice d'association des pictogrammes aux usages.
+- Sommative : Capacité de chaque apprenant à nommer un outil ou un service numérique précis pour répondre à l'un de ses problèmes quotidiens.
+
+## 6. Contenus clés (Matière pour le formateur et les supports)
+
+### Les 4 grandes familles d'usages à présenter
+- **S'informer et Apprendre :** Consulter la météo, les horaires de transport, lire l'actualité locale, suivre des tutoriels simples.
+- **Communiquer :** Envoyer des courriels, passer des appels vidéo pour garder le contact avec la famille.
+- **Gérer son quotidien (Démarches et Achats) :** Prendre un rendez-vous médical, déclarer ses impôts, consulter son compte bancaire, comparer des prix.
+- **Se divertir :** Écouter de la musique, regarder des vidéos en rediffusion, jouer.
+
+### Facilités d'accès actuelles
+- Il n'est plus nécessaire de retenir des dizaines de mots de passe grâce aux connexions uniques comme FranceConnect ou Itsme.
+- Les formulaires peuvent souvent être enregistrés en brouillon pour être terminés plus tard.
+- Des simulateurs en ligne permettent d'estimer des droits ou tarifs avant de valider une démarche.
+
+### Sécurité de base (Les 3 réflexes)
+- Toujours vérifier la présence du cadenas (HTTPS) près de l'adresse du site avant de donner une information personnelle ou bancaire.
+- Créer un mot de passe long et unique ; le noter dans un carnet physique dédié.
+- Ne jamais cliquer sur un lien dans un message inattendu ou suspect.
