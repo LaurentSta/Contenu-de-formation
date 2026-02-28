@@ -1,4 +1,4 @@
-# sources.md
+﻿# sources.md
 
 ## 1. Démarches administratives et accès aux droits (Pour l'apprenant et le formateur)
 - **Service-Public** : Portail des démarches et actualités officielles — https://www.service-public.fr
@@ -17,3 +17,6 @@
 - **Solidarité Numérique** : Centre de ressources et tutoriels pas-à-pas conçus pour la prise en main des outils et les démarches d'urgence. — https://www.solidarite-numerique.fr
 - **Pix / Pix ABC** : Évaluation et certification des compétences numériques (Pix ABC est une déclinaison conçue spécifiquement pour le repérage des publics en difficulté) — https://pix.fr
 - **La MedNum** : Coopérative des acteurs de l'inclusion numérique (Ressources et veille) — https://labanquedesterritoires.fr/la-mednum
+## 4. Histoire du Web : la première page Web mondiale
+- **CERN (source originale)** : Première page Web mondiale — https://info.cern.ch/hypertext/WWW/TheProject.html
+- **Futura Sciences** : Article expliquant la republication de la première page Web au CERN — https://www.futura-sciences.com/tech/actualites/internet-premiere-page-web-republiee-cern-46234/

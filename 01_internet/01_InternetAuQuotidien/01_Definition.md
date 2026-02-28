@@ -39,10 +39,7 @@ Quelle est la différence entre Internet et un site web ?
 - Distinguer formellement Internet (le réseau physique) du Web (le service de consultation).
 - Maîtriser le vocabulaire fondamental pour la suite du cours : Serveur, Routeur, Navigateur, Données.
 
-## 2. Contexte
-- **Public :** Apprenants en inclusion numérique entamant la partie technique.
-- **Prérequis :** Avoir suivi les modules de base sur les usages du quotidien.
-- **Matériel :** Tableau blanc ou paperboard, post-it (ou outil collaboratif type Miro/Pad), vidéoprojecteur.
+
 
 ## 3. Méthode
 - Pédagogie active et collaborative (Nuage de mots, Schéma collectif).

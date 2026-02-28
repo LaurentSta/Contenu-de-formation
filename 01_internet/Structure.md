@@ -1,4 +1,4 @@
-# MODULE : Comprendre Internet (Niveau Bac – NSI)
+﻿# MODULE : Comprendre Internet (Niveau Bac – NSI)
 
 ---
 
@@ -6,15 +6,15 @@
 
 ## Leçon 1.1 – Définition d’Internet
 
-### Slide 1 – Internet ≠ Web
-- Internet : réseau mondial d’ordinateurs interconnectés
-- Web : service fonctionnant sur Internet
-- Exemples : email ≠ site web
+### Slide 1 – Définition d’Internet
+- Internet est une infrastructure mondiale de réseaux interconnectés.
+- Il permet la communication entre machines grâce à la suite de protocoles TCP/IP (IP, TCP, UDP...).
+- Le Web est un service qui fonctionne sur Internet, parmi d’autres.
 
-### Slide 2 – Internet comme réseau
-- Réseau = ensemble de machines connectées
-- Interconnexion mondiale
-- Notion d’infrastructure
+### Slide 2 – Internet ≠ Web
+- Internet : infrastructure mondiale (réseaux, routeurs, câbles, serveurs)
+- Web : service qui fonctionne sur Internet (pages, sites, navigateur)
+- Le Web utilise surtout HTTP/HTTPS ; Internet transporte aussi d’autres services (email, DNS, FTP)
 
 ### Slide 3 – Client / Serveur
 - Client : demande une ressource
@@ -167,3 +167,4 @@
 - Web = service
 - Communication = protocoles
 - Sécurité = enjeu majeur
+
